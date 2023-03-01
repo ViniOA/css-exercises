@@ -1,0 +1,23 @@
+.one,
+.two,
+.three {
+    background-color: #ffa3b4;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.two {
+font-size: 24px;
+
+}
+
+#title {
+color: #0000FF;
+font-size: 36px;
+
+}
+
+#bg-green-px{
+    background-color: #83f28f;
+    font-size: 24px;
+    font-weight: bold;
+}
